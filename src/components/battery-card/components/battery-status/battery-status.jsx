@@ -25,7 +25,7 @@ const BatteryStatus = ({ batteryData }) => {
       {batteryData.charging && (
         <FiZap
           size={24}
-          className="text-orange-400 absolute top-27 z-2 right-6 m-1 drop-shadow-md"
+          className="text-orange-400 absolute top-26.25 right-5.5 m-1 drop-shadow-md"
           style={{ fill: "lightsalmon" }}
         />
       )}

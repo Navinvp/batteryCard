@@ -58,7 +58,6 @@ const BatteryCard = () => {
                 padding: "0",
                 border: "none",
                 transition: "transform 0.3s ease-in-out",
-                zIndex:4,
                 backgroundColor: theme === "dark" ? "#1E2938" : "#F3F4F6"
               },
             }}
